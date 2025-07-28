@@ -1,0 +1,10 @@
+C:\Wipro\day3\CalculationCilent\bin\Debug\CalculationCilent.exe.config
+C:\Wipro\day3\CalculationCilent\bin\Debug\CalculationCilent.exe
+C:\Wipro\day3\CalculationCilent\bin\Debug\CalculationCilent.pdb
+C:\Wipro\day3\CalculationCilent\bin\Debug\CalculationLibrary.dll
+C:\Wipro\day3\CalculationCilent\bin\Debug\CalculationLibrary.pdb
+C:\Wipro\day3\CalculationCilent\obj\Debug\CalculationCilent.csproj.AssemblyReference.cache
+C:\Wipro\day3\CalculationCilent\obj\Debug\CalculationCilent.csproj.CoreCompileInputs.cache
+C:\Wipro\day3\CalculationCilent\obj\Debug\Calculat.1A27F46C.Up2Date
+C:\Wipro\day3\CalculationCilent\obj\Debug\CalculationCilent.exe
+C:\Wipro\day3\CalculationCilent\obj\Debug\CalculationCilent.pdb

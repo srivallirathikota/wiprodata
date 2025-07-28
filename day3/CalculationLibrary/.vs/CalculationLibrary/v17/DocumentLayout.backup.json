@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Wipro\\day3\\CalculationLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DemoApp||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE45528-6672-4324-BBBD-9DA72CB32326}|..\\DemoApp\\DemoApp.csproj|c:\\wipro\\day3\\demoapp\\custominput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89818432-5696-4C85-A089-1AE277A9FCBC}|..\\CalculationCilent\\CalculationCilent.csproj|c:\\wipro\\day3\\calculationcilent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942C8719-2744-40C2-8B5F-1C527E59F223}|CalculationLibrary\\CalculationLibrary.csproj|C:\\Wipro\\day3\\CalculationLibrary\\calculationlibrary\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942C8719-2744-40C2-8B5F-1C527E59F223}|CalculationLibrary\\CalculationLibrary.csproj|solutionrelative:calculationlibrary\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE45528-6672-4324-BBBD-9DA72CB32326}|..\\DemoApp\\DemoApp.csproj|c:\\wipro\\day3\\demoapp\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DemoApp",
+              "DocumentMoniker": "C:\\Wipro\\day3\\DemoApp\\DemoApp.csproj",
+              "RelativeDocumentMoniker": "..\\DemoApp\\DemoApp.csproj",
+              "ToolTip": "C:\\Wipro\\day3\\DemoApp\\DemoApp.csproj*",
+              "RelativeToolTip": "..\\DemoApp\\DemoApp.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-23T12:02:55.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomInput.cs",
+              "DocumentMoniker": "C:\\Wipro\\day3\\DemoApp\\CustomInput.cs",
+              "RelativeDocumentMoniker": "..\\DemoApp\\CustomInput.cs",
+              "ToolTip": "C:\\Wipro\\day3\\DemoApp\\CustomInput.cs*",
+              "RelativeToolTip": "..\\DemoApp\\CustomInput.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:37:06.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro\\day3\\CalculationCilent\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CalculationCilent\\Program.cs",
+              "ToolTip": "C:\\Wipro\\day3\\CalculationCilent\\Program.cs",
+              "RelativeToolTip": "..\\CalculationCilent\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:35:55.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "C:\\Wipro\\day3\\CalculationLibrary\\CalculationLibrary\\Calculation.cs",
+              "RelativeDocumentMoniker": "CalculationLibrary\\Calculation.cs",
+              "ToolTip": "C:\\Wipro\\day3\\CalculationLibrary\\CalculationLibrary\\Calculation.cs",
+              "RelativeToolTip": "CalculationLibrary\\Calculation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:30:30.332Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

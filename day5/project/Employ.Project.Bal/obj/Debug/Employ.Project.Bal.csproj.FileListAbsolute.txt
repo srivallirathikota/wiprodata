@@ -1,0 +1,2 @@
+C:\Wipro\day5\project\Employ.Project.Bal\obj\Debug\Employ.Project.Bal.csproj.AssemblyReference.cache
+C:\Wipro\day5\project\Employ.Project.Bal\obj\Debug\Employ.Project.Bal.csproj.CoreCompileInputs.cache

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Wipro\\day5\\PropertiesExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A94C755-C98A-499F-BA19-BBD7911180A0}|PropertiesExample\\PropertiesExample.csproj|c:\\wipro\\day5\\propertiesexample\\propertiesexample\\autoimplemented.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A94C755-C98A-499F-BA19-BBD7911180A0}|PropertiesExample\\PropertiesExample.csproj|solutionrelative:propertiesexample\\autoimplemented.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A94C755-C98A-499F-BA19-BBD7911180A0}|PropertiesExample\\PropertiesExample.csproj|c:\\wipro\\day5\\propertiesexample\\propertiesexample\\readonlyexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A94C755-C98A-499F-BA19-BBD7911180A0}|PropertiesExample\\PropertiesExample.csproj|solutionrelative:propertiesexample\\readonlyexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A94C755-C98A-499F-BA19-BBD7911180A0}|PropertiesExample\\PropertiesExample.csproj|c:\\wipro\\day5\\propertiesexample\\propertiesexample\\writeonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A94C755-C98A-499F-BA19-BBD7911180A0}|PropertiesExample\\PropertiesExample.csproj|solutionrelative:propertiesexample\\writeonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A94C755-C98A-499F-BA19-BBD7911180A0}|PropertiesExample\\PropertiesExample.csproj|c:\\wipro\\day5\\propertiesexample\\propertiesexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A94C755-C98A-499F-BA19-BBD7911180A0}|PropertiesExample\\PropertiesExample.csproj|solutionrelative:propertiesexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoImplemented.cs",
+              "DocumentMoniker": "C:\\Wipro\\day5\\PropertiesExample\\PropertiesExample\\AutoImplemented.cs",
+              "RelativeDocumentMoniker": "PropertiesExample\\AutoImplemented.cs",
+              "ToolTip": "C:\\Wipro\\day5\\PropertiesExample\\PropertiesExample\\AutoImplemented.cs",
+              "RelativeToolTip": "PropertiesExample\\AutoImplemented.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T06:36:05.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WriteOnly.cs",
+              "DocumentMoniker": "C:\\Wipro\\day5\\PropertiesExample\\PropertiesExample\\WriteOnly.cs",
+              "RelativeDocumentMoniker": "PropertiesExample\\WriteOnly.cs",
+              "ToolTip": "C:\\Wipro\\day5\\PropertiesExample\\PropertiesExample\\WriteOnly.cs",
+              "RelativeToolTip": "PropertiesExample\\WriteOnly.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T06:08:19.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReadOnlyExample.cs",
+              "DocumentMoniker": "C:\\Wipro\\day5\\PropertiesExample\\PropertiesExample\\ReadOnlyExample.cs",
+              "RelativeDocumentMoniker": "PropertiesExample\\ReadOnlyExample.cs",
+              "ToolTip": "C:\\Wipro\\day5\\PropertiesExample\\PropertiesExample\\ReadOnlyExample.cs",
+              "RelativeToolTip": "PropertiesExample\\ReadOnlyExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:51:14.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro\\day5\\PropertiesExample\\PropertiesExample\\Program.cs",
+              "RelativeDocumentMoniker": "PropertiesExample\\Program.cs",
+              "ToolTip": "C:\\Wipro\\day5\\PropertiesExample\\PropertiesExample\\Program.cs",
+              "RelativeToolTip": "PropertiesExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:50:39.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

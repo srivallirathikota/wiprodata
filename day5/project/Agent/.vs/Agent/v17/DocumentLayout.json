@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Wipro\\day5\\project\\Agent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89A644D2-3AB9-41A4-8BC2-51E34DA9B9BF}|..\\AgentProject.Dao\\AgentProject.Dao.csproj|c:\\wipro\\day5\\project\\agentproject.dao\\iagentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9BB1E-35EA-4CD5-AB0A-419D3307EF27}|AgentProject.Models\\AgentProject.Models.csproj|c:\\wipro\\day5\\project\\agent\\agentproject.models\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA9BB1E-35EA-4CD5-AB0A-419D3307EF27}|AgentProject.Models\\AgentProject.Models.csproj|solutionrelative:agentproject.models\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A644D2-3AB9-41A4-8BC2-51E34DA9B9BF}|..\\AgentProject.Dao\\AgentProject.Dao.csproj|c:\\wipro\\day5\\project\\agentproject.dao\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5306497B-8056-4224-855A-847FC35C918B}|AgentProject.Exception\\AgentProject.Exception.csproj|c:\\wipro\\day5\\project\\agent\\agentproject.exception\\agentexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5306497B-8056-4224-855A-847FC35C918B}|AgentProject.Exception\\AgentProject.Exception.csproj|solutionrelative:agentproject.exception\\agentexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Agent.cs",
+              "DocumentMoniker": "C:\\Wipro\\day5\\project\\Agent\\AgentProject.Models\\Agent.cs",
+              "RelativeDocumentMoniker": "AgentProject.Models\\Agent.cs",
+              "ToolTip": "C:\\Wipro\\day5\\project\\Agent\\AgentProject.Models\\Agent.cs",
+              "RelativeToolTip": "AgentProject.Models\\Agent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T11:47:54.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAgentDao.cs",
+              "DocumentMoniker": "C:\\Wipro\\day5\\project\\AgentProject.Dao\\IAgentDao.cs",
+              "RelativeDocumentMoniker": "..\\AgentProject.Dao\\IAgentDao.cs",
+              "ToolTip": "C:\\Wipro\\day5\\project\\AgentProject.Dao\\IAgentDao.cs*",
+              "RelativeToolTip": "..\\AgentProject.Dao\\IAgentDao.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T11:38:34.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Wipro\\day5\\project\\AgentProject.Dao\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\AgentProject.Dao\\Class1.cs",
+              "ToolTip": "C:\\Wipro\\day5\\project\\AgentProject.Dao\\Class1.cs",
+              "RelativeToolTip": "..\\AgentProject.Dao\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T11:37:50.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AgentException.cs",
+              "DocumentMoniker": "C:\\Wipro\\day5\\project\\Agent\\AgentProject.Exception\\AgentException.cs",
+              "RelativeDocumentMoniker": "AgentProject.Exception\\AgentException.cs",
+              "ToolTip": "C:\\Wipro\\day5\\project\\Agent\\AgentProject.Exception\\AgentException.cs",
+              "RelativeToolTip": "AgentProject.Exception\\AgentException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T11:33:51.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
