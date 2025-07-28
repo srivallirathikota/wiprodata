@@ -1,0 +1,7 @@
+C:\Wipro\day1\Helloworld\Helloworld\bin\Debug\Helloworld.exe.config
+C:\Wipro\day1\Helloworld\Helloworld\bin\Debug\Helloworld.exe
+C:\Wipro\day1\Helloworld\Helloworld\bin\Debug\Helloworld.pdb
+C:\Wipro\day1\Helloworld\Helloworld\obj\Debug\Helloworld.csproj.AssemblyReference.cache
+C:\Wipro\day1\Helloworld\Helloworld\obj\Debug\Helloworld.csproj.CoreCompileInputs.cache
+C:\Wipro\day1\Helloworld\Helloworld\obj\Debug\Helloworld.exe
+C:\Wipro\day1\Helloworld\Helloworld\obj\Debug\Helloworld.pdb
