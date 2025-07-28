@@ -1,0 +1,10 @@
+C:\Wipro\day4\ExtensionExample2\obj\Debug\ExtensionExample2.csproj.AssemblyReference.cache
+C:\Wipro\day4\ExtensionExample2\obj\Debug\ExtensionExample2.csproj.CoreCompileInputs.cache
+C:\Wipro\day4\ExtensionExample2\bin\Debug\ExtensionExample2.exe.config
+C:\Wipro\day4\ExtensionExample2\bin\Debug\ExtensionExample2.exe
+C:\Wipro\day4\ExtensionExample2\bin\Debug\ExtensionExample2.pdb
+C:\Wipro\day4\ExtensionExample2\bin\Debug\ExtensionLibray.dll
+C:\Wipro\day4\ExtensionExample2\bin\Debug\ExtensionLibray.pdb
+C:\Wipro\day4\ExtensionExample2\obj\Debug\Extensio.F2A80627.Up2Date
+C:\Wipro\day4\ExtensionExample2\obj\Debug\ExtensionExample2.exe
+C:\Wipro\day4\ExtensionExample2\obj\Debug\ExtensionExample2.pdb

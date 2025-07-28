@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Wipro\\day4\\InterfaceExample1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|InterfaceExample1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA13C6DD-7BA0-4EFC-A57D-CC063BE31EDF}|InterfaceExample1\\InterfaceExample1.csproj|c:\\wipro\\day4\\interfaceexample1\\interfaceexample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA13C6DD-7BA0-4EFC-A57D-CC063BE31EDF}|InterfaceExample1\\InterfaceExample1.csproj|solutionrelative:interfaceexample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA13C6DD-7BA0-4EFC-A57D-CC063BE31EDF}|InterfaceExample1\\InterfaceExample1.csproj|c:\\wipro\\day4\\interfaceexample1\\interfaceexample1\\yam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA13C6DD-7BA0-4EFC-A57D-CC063BE31EDF}|InterfaceExample1\\InterfaceExample1.csproj|solutionrelative:interfaceexample1\\yam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA13C6DD-7BA0-4EFC-A57D-CC063BE31EDF}|InterfaceExample1\\InterfaceExample1.csproj|c:\\wipro\\day4\\interfaceexample1\\interfaceexample1\\sunil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA13C6DD-7BA0-4EFC-A57D-CC063BE31EDF}|InterfaceExample1\\InterfaceExample1.csproj|solutionrelative:interfaceexample1\\sunil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA13C6DD-7BA0-4EFC-A57D-CC063BE31EDF}|InterfaceExample1\\InterfaceExample1.csproj|c:\\wipro\\day4\\interfaceexample1\\interfaceexample1\\itraning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA13C6DD-7BA0-4EFC-A57D-CC063BE31EDF}|InterfaceExample1\\InterfaceExample1.csproj|solutionrelative:interfaceexample1\\itraning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA13C6DD-7BA0-4EFC-A57D-CC063BE31EDF}|InterfaceExample1\\InterfaceExample1.csproj|c:\\wipro\\day4\\interfaceexample1\\interfaceexample1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InterfaceExample1",
+              "DocumentMoniker": "C:\\Wipro\\day4\\InterfaceExample1\\InterfaceExample1\\InterfaceExample1.csproj",
+              "RelativeDocumentMoniker": "InterfaceExample1\\InterfaceExample1.csproj",
+              "ToolTip": "C:\\Wipro\\day4\\InterfaceExample1\\InterfaceExample1\\InterfaceExample1.csproj",
+              "RelativeToolTip": "InterfaceExample1\\InterfaceExample1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-24T12:39:46.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Yam.cs",
+              "DocumentMoniker": "C:\\Wipro\\day4\\InterfaceExample1\\InterfaceExample1\\Yam.cs",
+              "RelativeDocumentMoniker": "InterfaceExample1\\Yam.cs",
+              "ToolTip": "C:\\Wipro\\day4\\InterfaceExample1\\InterfaceExample1\\Yam.cs",
+              "RelativeToolTip": "InterfaceExample1\\Yam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T12:36:27.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sunil.cs",
+              "DocumentMoniker": "C:\\Wipro\\day4\\InterfaceExample1\\InterfaceExample1\\Sunil.cs",
+              "RelativeDocumentMoniker": "InterfaceExample1\\Sunil.cs",
+              "ToolTip": "C:\\Wipro\\day4\\InterfaceExample1\\InterfaceExample1\\Sunil.cs",
+              "RelativeToolTip": "InterfaceExample1\\Sunil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T12:35:12.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITraning.cs",
+              "DocumentMoniker": "C:\\Wipro\\day4\\InterfaceExample1\\InterfaceExample1\\ITraning.cs",
+              "RelativeDocumentMoniker": "InterfaceExample1\\ITraning.cs",
+              "ToolTip": "C:\\Wipro\\day4\\InterfaceExample1\\InterfaceExample1\\ITraning.cs",
+              "RelativeToolTip": "InterfaceExample1\\ITraning.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T12:34:21.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro\\day4\\InterfaceExample1\\InterfaceExample1\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceExample1\\Program.cs",
+              "ToolTip": "C:\\Wipro\\day4\\InterfaceExample1\\InterfaceExample1\\Program.cs",
+              "RelativeToolTip": "InterfaceExample1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T12:30:40.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
