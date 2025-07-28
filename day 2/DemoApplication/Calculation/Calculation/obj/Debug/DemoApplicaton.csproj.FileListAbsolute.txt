@@ -1,0 +1,8 @@
+C:\Wipro\day5\DemoApplication\Calculation\Calculation\bin\Debug\Calculation.exe.config
+C:\Wipro\day5\DemoApplication\Calculation\Calculation\bin\Debug\Calculation.exe
+C:\Wipro\day5\DemoApplication\Calculation\Calculation\bin\Debug\Calculation.pdb
+C:\Wipro\day5\DemoApplication\Calculation\Calculation\obj\Debug\DemoApplicaton.csproj.AssemblyReference.cache
+C:\Wipro\day5\DemoApplication\Calculation\Calculation\obj\Debug\DemoApplicaton.csproj.CoreCompileInputs.cache
+C:\Wipro\day5\DemoApplication\Calculation\Calculation\obj\Debug\Calculation.exe
+C:\Wipro\day5\DemoApplication\Calculation\Calculation\obj\Debug\Calculation.pdb
+C:\Wipro\day5\DemoApplication\Calculation\Calculation\obj\Debug\Calculation.exe.config

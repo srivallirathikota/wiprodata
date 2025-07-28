@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoApplicaton", "Calculation\DemoApplicaton.csproj", "{AE885CD1-4A2A-4E9F-971A-8AF304194DE1}"
+EndProject
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "Calculation", "..\..\..\day 2\DemoApplication\Calculation\Calculation\bin\Debug\Calculation.exe", "{C7BF6F77-0E57-318D-1766-B7BB84D0EE6D}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Wipro\day 2\DemoApplication\Calculation\Calculation\bin\Debug\Calculation.exe
+		RemoteMachine = LAPTOP-HHIIRPMT
+		StartingDirectory = C:\Wipro\day 2\DemoApplication\Calculation\Calculation\bin\Debug
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+		IORedirection = Auto
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE885CD1-4A2A-4E9F-971A-8AF304194DE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE885CD1-4A2A-4E9F-971A-8AF304194DE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE885CD1-4A2A-4E9F-971A-8AF304194DE1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AE885CD1-4A2A-4E9F-971A-8AF304194DE1}.Debug|x86.Build.0 = Debug|Any CPU
+		{AE885CD1-4A2A-4E9F-971A-8AF304194DE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE885CD1-4A2A-4E9F-971A-8AF304194DE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE885CD1-4A2A-4E9F-971A-8AF304194DE1}.Release|x86.ActiveCfg = Release|Any CPU
+		{AE885CD1-4A2A-4E9F-971A-8AF304194DE1}.Release|x86.Build.0 = Release|Any CPU
+		{C7BF6F77-0E57-318D-1766-B7BB84D0EE6D}.Debug|Any CPU.ActiveCfg = Release|x86
+		{C7BF6F77-0E57-318D-1766-B7BB84D0EE6D}.Debug|x86.ActiveCfg = Release|x86
+		{C7BF6F77-0E57-318D-1766-B7BB84D0EE6D}.Release|Any CPU.ActiveCfg = Release|x86
+		{C7BF6F77-0E57-318D-1766-B7BB84D0EE6D}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40AE6BD8-FBD8-4766-B007-6E3428E05C57}
+	EndGlobalSection
+EndGlobal
