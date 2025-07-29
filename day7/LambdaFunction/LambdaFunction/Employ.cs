@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LambdaFunction
 {
-    internal class Employ
+    internal class Employ:IComparable<Employ>
     {
         public int Empno {  get; set; }
         public string Name { get; set; }
@@ -22,7 +22,7 @@ namespace LambdaFunction
         }
         public override string ToString()
         {
-            return "Employ no :"+Empno+"Employ Name:"+Name+"Basic: "+Basic;
+            return "Employ no :"+Empno+" Employ Name:"+Name+"Basic: "+Basic;
         }
 
     }

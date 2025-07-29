@@ -1,0 +1,8 @@
+C:\Wipro\day7\LambdaFunction\LambdaFunction\bin\Debug\LambdaFunction.exe.config
+C:\Wipro\day7\LambdaFunction\LambdaFunction\bin\Debug\LambdaFunction.exe
+C:\Wipro\day7\LambdaFunction\LambdaFunction\bin\Debug\LambdaFunction.pdb
+C:\Wipro\day7\LambdaFunction\LambdaFunction\obj\Debug\LambdaFunction.csproj.AssemblyReference.cache
+C:\Wipro\day7\LambdaFunction\LambdaFunction\obj\Debug\LambdaFunction.csproj.CoreCompileInputs.cache
+C:\Wipro\day7\LambdaFunction\LambdaFunction\obj\Debug\LambdaFunction.exe
+C:\Wipro\day7\LambdaFunction\LambdaFunction\obj\Debug\LambdaFunction.pdb
+C:\Wipro\day7\LambdaFunction\LambdaFunction\obj\Debug\LambdaFunction.exe.config

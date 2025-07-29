@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Wipro\\day7\\LambdaFunction\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9F3F7B7-B93B-42AD-96A4-4C7B3CC37E1B}|LambdaFunction\\LambdaFunction.csproj|c:\\wipro\\day7\\lambdafunction\\lambdafunction\\lambdaex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9F3F7B7-B93B-42AD-96A4-4C7B3CC37E1B}|LambdaFunction\\LambdaFunction.csproj|solutionrelative:lambdafunction\\lambdaex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9F3F7B7-B93B-42AD-96A4-4C7B3CC37E1B}|LambdaFunction\\LambdaFunction.csproj|c:\\wipro\\day7\\lambdafunction\\lambdafunction\\employsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F3F7B7-B93B-42AD-96A4-4C7B3CC37E1B}|LambdaFunction\\LambdaFunction.csproj|solutionrelative:lambdafunction\\employsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9F3F7B7-B93B-42AD-96A4-4C7B3CC37E1B}|LambdaFunction\\LambdaFunction.csproj|c:\\wipro\\day7\\lambdafunction\\lambdafunction\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9F3F7B7-B93B-42AD-96A4-4C7B3CC37E1B}|LambdaFunction\\LambdaFunction.csproj|c:\\wipro\\day7\\lambdafunction\\lambdafunction\\basiccomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F3F7B7-B93B-42AD-96A4-4C7B3CC37E1B}|LambdaFunction\\LambdaFunction.csproj|solutionrelative:lambdafunction\\basiccomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F3F7B7-B93B-42AD-96A4-4C7B3CC37E1B}|LambdaFunction\\LambdaFunction.csproj|c:\\wipro\\day7\\lambdafunction\\lambdafunction\\namecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F3F7B7-B93B-42AD-96A4-4C7B3CC37E1B}|LambdaFunction\\LambdaFunction.csproj|solutionrelative:lambdafunction\\namecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F3F7B7-B93B-42AD-96A4-4C7B3CC37E1B}|LambdaFunction\\LambdaFunction.csproj|C:\\Wipro\\day7\\LambdaFunction\\lambdafunction\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9F3F7B7-B93B-42AD-96A4-4C7B3CC37E1B}|LambdaFunction\\LambdaFunction.csproj|solutionrelative:lambdafunction\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F3F7B7-B93B-42AD-96A4-4C7B3CC37E1B}|LambdaFunction\\LambdaFunction.csproj|c:\\wipro\\day7\\lambdafunction\\lambdafunction\\lambdaex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F3F7B7-B93B-42AD-96A4-4C7B3CC37E1B}|LambdaFunction\\LambdaFunction.csproj|solutionrelative:lambdafunction\\lambdaex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "BasicComparer.cs",
+              "DocumentMoniker": "C:\\Wipro\\day7\\LambdaFunction\\LambdaFunction\\BasicComparer.cs",
+              "RelativeDocumentMoniker": "LambdaFunction\\BasicComparer.cs",
+              "ToolTip": "C:\\Wipro\\day7\\LambdaFunction\\LambdaFunction\\BasicComparer.cs*",
+              "RelativeToolTip": "LambdaFunction\\BasicComparer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T10:39:15.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NameComparer.cs",
+              "DocumentMoniker": "C:\\Wipro\\day7\\LambdaFunction\\LambdaFunction\\NameComparer.cs",
+              "RelativeDocumentMoniker": "LambdaFunction\\NameComparer.cs",
+              "ToolTip": "C:\\Wipro\\day7\\LambdaFunction\\LambdaFunction\\NameComparer.cs",
+              "RelativeToolTip": "LambdaFunction\\NameComparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T10:37:36.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employsort.cs",
+              "DocumentMoniker": "C:\\Wipro\\day7\\LambdaFunction\\LambdaFunction\\Employsort.cs",
+              "RelativeDocumentMoniker": "LambdaFunction\\Employsort.cs",
+              "ToolTip": "C:\\Wipro\\day7\\LambdaFunction\\LambdaFunction\\Employsort.cs*",
+              "RelativeToolTip": "LambdaFunction\\Employsort.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwCYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T10:31:23.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Employ.cs",
               "DocumentMoniker": "C:\\Wipro\\day7\\LambdaFunction\\LambdaFunction\\Employ.cs",
               "RelativeDocumentMoniker": "LambdaFunction\\Employ.cs",
               "ToolTip": "C:\\Wipro\\day7\\LambdaFunction\\LambdaFunction\\Employ.cs",
               "RelativeToolTip": "LambdaFunction\\Employ.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-28T11:11:17.623Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "LambdaEx1.cs",
               "DocumentMoniker": "C:\\Wipro\\day7\\LambdaFunction\\LambdaFunction\\LambdaEx1.cs",
               "RelativeDocumentMoniker": "LambdaFunction\\LambdaEx1.cs",
               "ToolTip": "C:\\Wipro\\day7\\LambdaFunction\\LambdaFunction\\LambdaEx1.cs",
               "RelativeToolTip": "LambdaFunction\\LambdaEx1.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-28T11:05:25.481Z",
               "EditorCaption": ""

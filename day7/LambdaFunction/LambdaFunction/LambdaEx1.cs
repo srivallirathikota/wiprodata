@@ -22,14 +22,32 @@ namespace LambdaFunction
 
             Console.WriteLine("Employ List");
             var result1 = employList.Select(x => x.Empno);
-            foreach(var v in result1)
+            foreach (var v in result1)
             {
                 Console.WriteLine(v);
             }
-            var result2=employList.Select(x => new {x.Name,x.Basic});
+            var result2 = employList.Select(x => new { x.Name, x.Basic });
             Console.WriteLine("Projected fields are :");
-            forea
+            foreach (var v in result1)
+            {
+                Console.WriteLine(v);
+            }
+            var result3 = employList.Where(x => x.Basic >= 90000);
+            Console.WriteLine("salary >90000 record are");
+            foreach (var v in result3)
+            {
+                Console.WriteLine(v);
+            }
+            var result4 = employList.Where(x => x.Name.StartsWith("P"));
+            Console.WriteLine("name starts with p");
+            foreach (var v in result4)
+            {
+                Console.WriteLine(v);
+            }
 
         }
+
+    
+        
     }
 }
