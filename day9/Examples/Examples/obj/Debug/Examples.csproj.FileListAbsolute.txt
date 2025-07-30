@@ -1,0 +1,7 @@
+C:\Wipro\day9\Examples\Examples\obj\Debug\Examples.csproj.AssemblyReference.cache
+C:\Wipro\day9\Examples\Examples\obj\Debug\Examples.csproj.CoreCompileInputs.cache
+C:\Wipro\day9\Examples\Examples\bin\Debug\Examples.exe.config
+C:\Wipro\day9\Examples\Examples\bin\Debug\Examples.exe
+C:\Wipro\day9\Examples\Examples\bin\Debug\Examples.pdb
+C:\Wipro\day9\Examples\Examples\obj\Debug\Examples.exe
+C:\Wipro\day9\Examples\Examples\obj\Debug\Examples.pdb
