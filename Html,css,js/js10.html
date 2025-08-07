@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+    function show(){
+        var result="";
+         result+="Absolute Value " +Math.abs(-12) +"<br/>";
+            result+="Power Value   " +Math.pow(2,3) + "<br/>";
+            result+="Sqrt Value   " +Math.sqrt(49) + "<br/>";
+            result+="Ceiling  " +Math.ceil(12.000001) + "<br/>"; 
+            result+="Floor value is " +Math.floor(12.999999) + "<br/>";
+		    document.getElementById("result").innerHTML=result;
+    }
+    function show1() {
+                var result="";
+                var str="Welcome to Javascript......";
+                result+="Length " +str.length + "<Br/>";
+                result+="Index of Char 'a' is " +str.indexOf("a") + "<br/>"; 
+                result+="Char at 5th Position is " +str.charAt(5) + "<br/>";
+                result+="Lower Case String " +str.toLowerCase() + "<br/>";
+                result+="Upper Case String "+str.toUpperCase() + "<br/>";
+                result+="Part of String is " +str.substring(5,10) + "<br/>"; 
+                result+="Replaced String is " +str.replace("Javascript","HTML") + "<br/>";
+                document.getElementById("result").innerHTML = result;
+            }
+            function show2() {
+                var result = "";
+                var obj = new Date();
+                result+="Date is  " +obj.getDate() + "<br/>";
+                var mon = obj.getMonth();
+                mon++;
+                result+="Month is  " +mon + "<br/>";
+                result+="Year is " +obj.getFullYear() + "<Br/>";
+                result+="Hours  " +obj.getHours() + "<Br/>";
+                result+="Minutes  " +obj.getMinutes() + "<br/>";
+                result+="Seconds  " +obj.getSeconds() + "<Br/>";
+                document.getElementById("result").innerHTML = result;
+                // var future = new Date("March 31, " + obj.getFullYear());
+            }</script>
+</head>
+
+<body onload="show()" >
+    <center><span id="result"></span>
+    <br>
+    <button onclick="show1()">string manipulation</button> 
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <button onclick="show2()">about date </button></center>
+</body>
+</html>

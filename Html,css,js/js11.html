@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+          <script>
+             function show() {
+                var res = "";
+               var myArray = ["a","b","c","d","e"];
+               for(var v in myArray) {
+                    res +=myArray[v] + "<br/>";
+               }
+               document.getElementById("res").innerHTML = res;
+            }
+             function show1() {
+                var expr = "3 + 5 * 8 - 2 + 11";
+                alert(eval(expr));
+                console.log(eval(expr));
+            }
+        </script>
+</head>
+<body onload="show()">
+     <span id="res"></span>
+     <button onclick="show1()">click here</button>
+</body>
+</html>

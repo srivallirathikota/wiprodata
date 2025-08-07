@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body onclick="show()">
+    
+</body>
+<script>
+             employs = [
+                {empno:1,name:'Raj',basic:52344},
+                {empno:2,name:'raju',basic:90032},
+                {empno:3,name:'Udaya',basic:87732},
+                {empno:4,name:'Hema',basic:87742},
+                {empno:5,name:'Pavani',basic:78832},
+            ];
+
+        //   for(var v in employs){
+        //     console.log(v);
+        //   }
+            const show = () => {
+               docutment.writeln(employs.filter(e => e.name.startsWith("R")));
+
+            }
+        </script>
+</html>
